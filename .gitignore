@@ -82,4 +82,9 @@ fabric.properties
 # Sonarlint plugin
 .idea/sonarlint
 
+#From Ray's course
+.DS_Store
+node_modules
+.tmp
+
 # End of https://www.gitignore.io/api/phpstorm
